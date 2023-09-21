@@ -6,7 +6,7 @@ class Footer extends Component {
     return (
       <footer className="section-p1">
         <div className="col">
-          <img className="logo" src={require("../assets/img/logo.png")} />
+          <img className="logo" src={require("../assets/img/logo.jpg")} />
           <h4>Liên hệ</h4>
           <p>
             <strong>Địa chỉ:</strong> Dương Đình Hội, Thủ Đức
